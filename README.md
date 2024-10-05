@@ -4,7 +4,9 @@ Este es un proyecto desarrollado como parte del **Challenge ONE (Oracle Next Edu
 El objetivo del proyecto es crear una aplicación de consola en Java que permita la conversión entre diversas monedas a través de una API, que permite utilizar valores actuales del mercado.
 
 
-![image](https://github.com/user-attachments/assets/cbe98e68-eb7f-4125-b298-e30ab0056254)
+![image](https://github.com/user-attachments/assets/630c8d3c-47a3-4eb2-b48e-da80d436c7c1)
+
+
 
 ## Descripción
 
@@ -65,9 +67,11 @@ Para ejecutar este proyecto necesitas:
 5. Para salir del programa, selecciona la opción 14 del menú
 
 
-![image](https://github.com/user-attachments/assets/d95ab398-219a-405f-8b78-61b4d1f53b6a)
+![Captura de pantalla 2024-10-04 190925](https://github.com/user-attachments/assets/bd707fa6-56f9-4780-992f-87b00922fbce)
 
-![image](https://github.com/user-attachments/assets/0b57cc3f-fa4b-4138-ab94-fb1619582b79)
+
+![Captura de pantalla 2024-10-04 191000](https://github.com/user-attachments/assets/5b18bd2d-3646-4711-afd7-5d61cce5f41f)
+
 
 
 ### Agradecimientos 
