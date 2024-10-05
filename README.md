@@ -30,6 +30,9 @@ Para ejecutar este proyecto necesitas:
 - Un editor de código o un entorno de desarrollo integrado (IDE) como **Eclipse**, **IntelliJ IDEA**, o **VS Code**.
 - **Libreria Gson** adjuntada en el repositorio
 - **Git** (opcional, pero recomendado para clonar el repositorio).
+- **ApiKey** - Conseguida en:
+   ```bash
+  https://www.exchangerate-api.com/
 
 ## Instalación
 
